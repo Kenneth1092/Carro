@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carro", "Carro.csproj", "{6D486B1E-3A74-45BA-BBD8-595D0C89620F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CarroSetup", "..\CarroSetup\CarroSetup.vdproj", "{7776E020-123C-43FA-843B-74E4A51077BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D486B1E-3A74-45BA-BBD8-595D0C89620F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D486B1E-3A74-45BA-BBD8-595D0C89620F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D486B1E-3A74-45BA-BBD8-595D0C89620F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D486B1E-3A74-45BA-BBD8-595D0C89620F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7776E020-123C-43FA-843B-74E4A51077BB}.Debug|Any CPU.ActiveCfg = Debug
+		{7776E020-123C-43FA-843B-74E4A51077BB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {848F088C-5231-4208-8429-494B215CCAF5}
+	EndGlobalSection
+EndGlobal
